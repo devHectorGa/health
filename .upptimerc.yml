@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.efectitech.com
   # baseUrl: /your-repo-name
-  logoUrl: https://efectitech.com/images/Logo.svg
+  https://efectitech.com/images/logoh1.svg
   name: Efectitech | Status Services
   introTitle: "Monitoreo de disponibilidad de **Efectitech**"
   introMessage: |
@@ -24,11 +24,11 @@ status-website:
     Si detectas algún inconveniente en nuestros servicios, por favor contáctanos vía:
     - [Correo electrónico](mailto:contacto@efectitech.com?subject=Servicios%20caidos)
     - [WhatsApp](https://wa.me/573138639940?text=Hola,%20he%20detectado%20un%20problema)
-  navbar:
-    - title: "Estado"
-      href: "/"
-    - title: "Efectitech"
-      href: "https://efectitech.com"
+#  navbar:
+#    - title: "Estado"
+#      href: "/"
+#    - title: "Efectitech"
+#      href: "https://efectitech.com"
 
 
 # Upptime also supports notifications, assigning issues, and more
