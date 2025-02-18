@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://efectitech.com/images/Logo.svg
   name: Efectitech | Status Services
   introTitle: "Monitoreo de disponibilidad de **Efectitech**"
-  introMessage: >
+  introMessage: |
     En **Efectitech**, nos esforzamos por ofrecer soluciones tecnológicas confiables y alto rendimiento. 
     A través de esta página, puedes consultar en **tiempo real** el estado de nuestras plataformas, 
     así como revisar su historial de disponibilidad y tiempos de respuesta.
