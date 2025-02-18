@@ -17,14 +17,13 @@ status-website:
   name: Efectitech | Status Services
   introTitle: "Monitoreo de disponibilidad de **Efectitech**"
   introMessage: |
-    En **Efectitech**, nos esforzamos por ofrecer soluciones tecnológicas confiables y alto rendimiento. 
-    A través de esta página, puedes consultar en **tiempo real** el estado de nuestras plataformas, 
-    así como revisar su historial de disponibilidad y tiempos de respuesta.
+    En **Efectitech**, nos esforzamos por ofrecer soluciones confiables y de alto rendimiento. 
+    Aquí puedes consultar en **tiempo real** el estado de nuestras plataformas, así como revisar
+    su historial de disponibilidad.
   
-    Si detectas algún inconveniente en nuestros servicios, por favor contáctanos:
-    - Vía [correo electrónico](mailto:contacto@efectitech.com?subject=Servicios%20caidos)
-    - O envíanos un mensaje directo por 
-      [WhatsApp](https://wa.me/573138639940?text=Hola,%20he%20detectado%20un%20problema%20con%20uno%20de%20los%20servicios)
+    Si detectas algún inconveniente en nuestros servicios, por favor contáctanos vía:
+    - [Correo electrónico](mailto:contacto@efectitech.com?subject=Servicios%20caidos)
+    - [WhatsApp](https://wa.me/573138639940?text=Hola,%20he%20detectado%20un%20problema)
   navbar:
     - title: "Estado"
       href: "/"
