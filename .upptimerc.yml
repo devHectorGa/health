@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.efectitech.com
   # baseUrl: /your-repo-name
-  https://efectitech.com/images/logoh1.svg
+  logoUrl: https://efectitech.com/images/logoh1.svg
   name: Efectitech | Status Services
   introTitle: "Monitoreo de disponibilidad de **Efectitech**"
   introMessage: |
