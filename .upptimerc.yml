@@ -22,9 +22,6 @@ status-website:
     así como revisar su historial de disponibilidad y tiempos de respuesta.
   
     Si detectas algún inconveniente en nuestros servicios, por favor contáctanos:
-    - Vía [correo electrónico](mailto:contacto@efectitech.com?subject=Servicios%20caidos)
-    - O envíanos un mensaje directo por 
-      [WhatsApp](https://wa.me/573138639940?text=Hola,%20he%20detectado%20un%20problema%20con%20uno%20de%20los%20servicios)
   navbar:
     - title: "Estado"
       href: "/"
