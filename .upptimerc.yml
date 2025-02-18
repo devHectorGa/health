@@ -15,18 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://efectitech.com/images/Logo.svg
   name: Efectitech | Status Services
-  introTitle: "Monitoreo de disponibilidad de **Efectitech**"
-  introMessage: >
-    En **Efectitech**, nos esforzamos por ofrecer soluciones tecnológicas confiables y alto rendimiento. 
-    A través de esta página, puedes consultar en **tiempo real** el estado de nuestras plataformas, 
-    así como revisar su historial de disponibilidad y tiempos de respuesta.
-  
-    Si detectas algún inconveniente en nuestros servicios, por favor contáctanos:
-  navbar:
-    - title: "Estado"
-      href: "/"
-    - title: "Efectitech"
-      href: "https://efectitech.com"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
