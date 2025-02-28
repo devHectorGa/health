@@ -22,19 +22,19 @@
     "url": "https://pdf.efectitech.com",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.efectitech.com.ico",
     "slug": "pdf-tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 234,
-    "timeWeek": 739,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 622,
+    "timeDay": 553,
+    "timeWeek": 789,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-02-28": 0
+      "2025-02-28": 29
     }
   }
 ]
